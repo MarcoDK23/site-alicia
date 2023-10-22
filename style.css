@@ -1,0 +1,29 @@
+#conteudo {
+    background: #a13838;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    padding: 10px;
+    text-align: center;
+}
+
+.btn{
+    background: rgb(24, 23, 23);
+    color: white;
+    border: none;
+    padding: 10px;
+    width: 80px;
+    border-radius: 8px;
+}
+
+.al{
+    font: normal 30px arial;
+    color: white;
+
+}
+
+.big {
+    font-size: 20px;
+}
